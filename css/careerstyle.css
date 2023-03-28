@@ -91,6 +91,9 @@ nav ul {
 
 nav li {
     margin-right: 20px;
+    font-family: 'Zilla Slab', serif;
+    font-size: 13px;
+    font-weight: 500;
     /* Add spacing between items */
 }
 
@@ -104,7 +107,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #8BBCCC;
+    color: #61bbd6;
     /* Link text color on hover */
 }
 
@@ -159,7 +162,13 @@ img {
 
 a {
     text-decoration: none;
+    color: #000;
   }
+
+a:hover {
+    color: #61bbd6;
+    transition: all 0.3s ease;
+}
 
   /*  Contact form */
 
