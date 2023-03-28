@@ -218,3 +218,30 @@ a {
     color: #fff;
     box-shadow: 0px 2px 2px #ddd;
 }
+
+.social-icons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    max-width: 120px;
+    margin: 0 auto;
+}
+
+.social-icons img {
+    text-align: center;
+}    
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 24px;
+    color: #000;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .copyright {
+    text-align: center;
+    padding-top: 25px;
+  }
+
+ 
