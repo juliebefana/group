@@ -1,16 +1,15 @@
 .contact-us {
-    margin: 140px;
+    margin: 90px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
     column-gap: 50px;
     row-gap: 60px;
-    width: 414px;
-    height: 162px;
+
   }
   
   .el {
-    background-color: #f9f5eb;
+
   }
   
   .h2 {
@@ -49,14 +48,10 @@
   div {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    /*background-color: #aec2b6;*/
-    border: solid 1px #20262e;
   }
   
   .newsletter {
-    margin: 140px;
-    width: 414px;
-    height: 162px;
+    margin: 90px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(6, 1fr);
