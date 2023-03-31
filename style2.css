@@ -29,7 +29,6 @@
   }
   
   input {
-    /* background-color: #aec2b6;*/
     border: none;
     border-bottom: solid 1px grey;
   }
@@ -40,7 +39,6 @@
   }
   
   textarea {
-    /* background-color: #aec2b6;*/
     border: none;
     border-bottom: solid 1px grey;
   }
@@ -88,13 +86,3 @@
     height: 200%;
   }
   
-  /*
-  span {
-    margin-top: 40px;
-    display: flex;
-    justify-content: center;
-    color: #0e8388;
-    font-size: 55px;
-    font-style: italic;
-  }
-  */
