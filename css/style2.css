@@ -41,7 +41,7 @@ textarea {
   border-bottom: solid 1px grey;
 }
 
-div {
+.contact-form {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
