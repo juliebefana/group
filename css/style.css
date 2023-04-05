@@ -254,4 +254,32 @@ a:hover {
     padding-top: 25px;
   }
 
+  /* Mobile responsive version */
+
+  @media screen and (max-width:600px) {
+
+    .main-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        max-width: 100%;
+
+    }
+
+    .content {
+        display: grid;
+        grid-template-columns: 1fr;
+        max-width: 100%;
+    }
+
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr;
+        max-width: 100%;
+    }
+
+    #newsletterimg {
+        max-width: 100%;
+    }
+    
+  }
  
