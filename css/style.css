@@ -263,6 +263,8 @@ a:hover {
         display: grid;
         grid-template-columns: 1fr;
         max-width: 100%;
+        margin-left: 20px;
+        margin-right: 40px;
 
     }
 
@@ -281,4 +283,13 @@ a:hover {
     #newsletterimg {
         max-width: 100%;
     }
+
+    /* #smallColumn { */
+    /* display: none; */
+}
+
+.topp-val {
+    display: grid;
+    grid-template-columns: 1fr;
+}
 }
