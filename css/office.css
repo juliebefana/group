@@ -77,7 +77,7 @@
     flex-flow: column;
     gap: 4px;
     padding: 10px;
-    border-bottom: 3px solid black;
+    border-bottom: 1px solid #aaa;
 }
 
 .aside-title {
